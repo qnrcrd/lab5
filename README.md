@@ -308,3 +308,6 @@ function task23()
 <img src="https://github.com/qnrcrd/lab5/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-14%20195450.png"></img>
 
 <img src="https://github.com/qnrcrd/lab5/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-14%20195739.png"></img>
+
+<h1 align = "center">Вывод</h1>
+<p>По итогу проделанной лабораторной работы, были приобретены навыки работы с языком JavaScript, а также были созданы 23 функции по 23 заданиям с использованием JavaScript и решены 6 задач на CodeWars с использованием JavaScript</p>
